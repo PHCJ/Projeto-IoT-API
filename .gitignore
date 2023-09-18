@@ -1,0 +1,9 @@
+# Dependencias do diretorio
+
+node_modules/
+
+# Dotenv é um arquivo de variavel de ambiente
+.env
+
+
+

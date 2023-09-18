@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Daniela e Paulo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
